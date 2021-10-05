@@ -1,0 +1,31 @@
+.container-home {
+    width: 100%;
+    overflow: hidden;
+}
+
+.container-home .jumbotron {
+    /* height: 87%; */
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    /* top: 10%; */
+    z-index: -1;
+}
+
+
+.image-area img {
+    margin-top: -20rem;
+    opacity: 1;
+    position: relative;
+}
+.jumbotron .text-area {
+    width: 100%;
+}
+.jumbotron .text-area h3 {
+    font-size: 2rem;
+    text-align: center;
+    padding: 2rem;
+}
+.container-home .content {
+    top: 0;
+    height: fit-content;
+}
